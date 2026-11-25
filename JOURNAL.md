@@ -1,7 +1,8 @@
 ## November 22  -   2.5 hour
 ### MADE THE SCHEMATICS 
 
-So I started with making the schematics . First I added switch and diode symbol <br><img width="400" height="295" alt="Screenshot 2026-11-25 030242" src="https://github.com/user-attachments/assets/9134db36-5f19-413f-92fe-31311a5af7f0" /> <br>and added the footprints onto it then I made a  3X3 Switch Matrix out of it 
+So I started with making the schematics . First I added switch and diode symbol <br><img width="400" height="295" alt="Screenshot 2026-11-25 030242" src="https://github.com/user-attachments/assets/9134db36-5f19-413f-92fe-31311a5af7f0" /> <br>
+and added the footprints onto it then I made a  3X3 Switch Matrix out of it 
   <img width="577" height="500" alt="Screenshot 2026-11-25 030454" src="https://github.com/user-attachments/assets/9df5695c-c889-4df9-ad2e-ba8de55aa145" /><br>
  then I added three rotor encoder
  <img width="951" height="298" alt="Screenshot 2026-11-25 030940" src="https://github.com/user-attachments/assets/454395c0-7fec-4208-8831-9d2881983e13" /> <br>

@@ -9,7 +9,16 @@ So I made a custom 3X3 micropad with three rotor encoder that controls Brightnes
 - 3x3 Switch Matrix and 3 Rotor to control Volume ,  Brightness ,scroll
 
   ## BOM
-  
+
+| Item | Price (USD) | Source |
+|---|---:|---|
+| PCB + 3D Print + Shipping (Coupons Applied) | $15.72 | JLCPCB |
+| Arduino Pro-Micro + Shipping | $5.30 | [Robocraze](https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR) |
+| Keycaps (Pack of 5 × 2) | $1.05 | [Meckeys](https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?attribute_pa_variations=off-white) |
+| Meckeys Shipping | $1.10 | [Meckeys](https://meckeys.com/) |
+| Diodes (10 Pieces) | Already Owned | [Indian Hobby Center](https://www.indianhobbycenter.com/products/zener-diode-1n4148) |
+| Rotary Encoder | Already Owned | [Robu.in](https://robu.in/product/green-rotary-encoder-module-for-arduino-without-demo-code/) |
+| **Total** | **$23.17** | |
 
   ## Schematics
 

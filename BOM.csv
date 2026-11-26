@@ -1,9 +1,8 @@
 Item,Price,Source
-PCB + Shipping - Coupons , 12.72 ,JLCPCB
+PCB + 3D Print +  Shipping - Coupons , 15.72 ,JLCPCB
 Arduino Pro-Micro + Shipping ,5.3,https://robocraze.com/products/seeed-studio-xiao-rp2040-development-board?variant=47742255562976&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&campaignid=23145906364&adgroupid=182236965810&keyword=&device=c&gad_source=1&gad_campaignid=23145906364&gbraid=0AAAAADgHQvYhTOiCm8B2Kce3Y2TeUGf3z&gclid=Cj0KCQjw54nRBhDCARIsAMcY_SB_TAZJmWVz9UMC2bsEm1bpqMGtEh-DTc_OUbpecaOUUTlpCv5RC3kaAul2EALw_wcB
 Key Caps(pack of 5) * 2  ,1.05 , https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/blank/blank-dsa-keycaps-1u/?attribute_pa_variations=off-white
 meckeys shipping,1.1, meckeys.com
-Diodes ( 10 pieces) ,already have,
-rotor encoder, already have ,
-3D Print,0,
-Total,20.17,
+Diodes ( 10 pieces) ,already have,https://www.indianhobbycenter.com/products/zener-diode-1n4148?srsltid=AYCX9vLRMlzbnDE-tt1hgoRDYXy5G2wrcWx9ZVJHjGTOhKiaKiyjmwre
+rotor encoder, already have ,https://www.elektormagazine.com/labs/rotary-encoder-on-a-single-mcu-pin
+Total,23.17,

@@ -47,6 +47,13 @@ So after proper alignment the MicroPad Looks like this <br> <img width="873" hei
 So I made a simple firmware for the micro pad that controls all the three rotor encoder for  Brigthess , Volume and scroll controle and the 9 switches for simple shortcut. <br>
 <img width="1067" height="958" alt="image" src="https://github.com/user-attachments/assets/8373ff36-acce-4014-8b44-ca3d98a81a1e" /><br>
 
+## November 27  -   1 hour
+### Make the Github
+
+So I organized everything related to this project and pushed it onto github then I made the BOM.csv and the readme for the project <br> 
+<img width="1230" height="927" alt="image" src="https://github.com/user-attachments/assets/aea753da-c0a6-47fd-bb7f-a0a518039f9f" />
+
+
 
 
 

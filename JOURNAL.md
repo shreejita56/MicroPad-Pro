@@ -22,8 +22,15 @@ SO I started with making the layout for the PCB . First I Updated the PCB editor
 So I started up with routing the PCB First I routed the Columns and the diodes to the switch  <img width="925" height="763" alt="Screenshot 2026-11-25 061003" src="https://github.com/user-attachments/assets/58cf9568-c960-41ef-8bd5-983d9931f3d0" /> <br> after that I routed the rows <img width="910" height="770" alt="Screenshot 2026-11-25 061031" src="https://github.com/user-attachments/assets/7d2de425-bb75-49ac-a47b-a20a4558c6c4" /> <br> then I saw a connection error on the PCB due to misconection of the label<br> <img width="1010" height="703" alt="Screenshot 2026-11-25 061357" src="https://github.com/user-attachments/assets/dc301d6b-96da-4b12-be39-1f7612409722" />
 <br> which I solved then after that I started routing the Rows and the columns to the MCU and I used via where necessary and tried to make the routs clean , this is how it look it looks <br><img width="367" height="560" alt="Screenshot 2026-11-25 061520" src="https://github.com/user-attachments/assets/87127429-817e-4863-a33b-f135045b7186" /> <br>after that I connected all the connection for the 3 Rotor Encoders as well excapt the GND  <img width="436" height="592" alt="Screenshot 2026-11-25 061707" src="https://github.com/user-attachments/assets/98812b19-afb5-4589-8cac-f8f51bf635a7" /><br> FOr GND I used fillzone on both layer and this is how the board looks <img width="607" height="666" alt="Screenshot 2026-11-25 061747" src="https://github.com/user-attachments/assets/312a8566-3788-41d5-823f-531b8e7eb8e7" /> <img width="520" height="747" alt="Screenshot 2026-11-25 061758" src="https://github.com/user-attachments/assets/8ec7017a-b9ea-4adb-b96b-4ceec1494ece" /> <br> then I DRC the board and everything Looks Good to go with . NOW we will make the CAD for The MICROPAD
 
+## November 24  -   0.75 hour
+### Added all the 3D Components onto the PCB in Fusion 
+So I didn't had 3D Files of the switches , Arduino Pro-Micro , and the rotor Encoder . So I downloaded all of them from the Web and in Fusion I added all those components onto the PCB on there desired position
+<br><img width="632" height="682" alt="Screenshot 2026-11-25 175059" src="https://github.com/user-attachments/assets/e4c39d05-f3bf-46bb-813c-9fcd698b95a6" />
 
 
+
+## November 24  -   2.5 hour
+### Making The CASE 
 
 
 

@@ -41,6 +41,15 @@ So after proper alignment the MicroPad Looks like this <br> <img width="873" hei
 
 <br> after that I added a cut for the USB-C <br> <img width="682" height="525" alt="Screenshot 2026-11-25 180753" src="https://github.com/user-attachments/assets/fe740658-f011-4df6-bd3f-ad0969411534" /> <br> this is hoe the board looks right now <br><img width="557" height="540" alt="Screenshot 2026-11-25 180837" src="https://github.com/user-attachments/assets/44aa23a7-e2a0-4739-b7a1-11a1ebab53b5" /> <br>then I made changes onto the design bounders and this is the final look <br> <img width="660" height="347" alt="Screenshot 2026-11-25 191138" src="https://github.com/user-attachments/assets/17bcbbcb-8b5b-4574-a4fd-8efb5324d39a" /><br/><img width="650" height="383" alt="Screenshot 2026-11-25 191201" src="https://github.com/user-attachments/assets/848f3a7a-ba3a-47e6-b1c4-0bfeda136504" />
 
+## November 26  -   0.75 hour
+### Make the firmware
+
+So I made a simple firmware for the micro pad that controls all the three rotor encoder for  Brigthess , Volume and scroll controle and the 9 switches for simple shortcut. <br>
+<img width="1067" height="958" alt="image" src="https://github.com/user-attachments/assets/8373ff36-acce-4014-8b44-ca3d98a81a1e" /><br>
+
+
+
+
 
 
 

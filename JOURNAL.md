@@ -54,9 +54,15 @@ So I organized everything related to this project and pushed it onto github then
 <img width="1230" height="927" alt="image" src="https://github.com/user-attachments/assets/aea753da-c0a6-47fd-bb7f-a0a518039f9f" />
 
 
-
-
-
+### MADE THE SCHEMATICS  - 2.5 hour
+### MAKING THE PCB LAYOUT - 1.75 
+### Routing the PCB  - 2.0 hour
+### Added all the 3D Components onto the PCB in Fusion - 0.75 hour
+### Making The CASE  -  2.5 hour
+### Making final updates onto the CAD  - 1.5 hour
+### Make the firmware  - 0.75 hour
+### Make the Github -  1 hour
+### Total  - 12.75
 
 
 
